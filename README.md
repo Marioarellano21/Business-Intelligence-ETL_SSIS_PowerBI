@@ -16,3 +16,5 @@
 *  Crear las soluciones Bi basados en el análisis de datos partiendo de nuestro modelo estrella, con la finalidad de dar soluciones a los requerimientos del problemas.
 4. Dataset - Vehicle Sales Data
 * https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data?rvi=1
+
+# Proceso
