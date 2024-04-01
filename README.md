@@ -9,9 +9,9 @@
 # Herramientas Utilizadas
 
 1. SQL Sever
-  1 Para la creación de la estructura de nuestro Datamart y realizar las consultas pertinentes.  
+* Para la creación de la estructura de nuestro Datamart y realizar las consultas pertinentes.  
 2. SQL Server Integration Services(SSIS)
-  1 Para crear los flujos ETL de nuestros datos, el flujo final resultante tiene la finalidad de realizar el llenado de nuestro Datamart, para nuestro posterior uso en el PowerBi.
+* Para crear los flujos ETL de nuestros datos, el flujo final resultante tiene la finalidad de realizar el llenado de nuestro Datamart, para nuestro posterior uso en el PowerBi.
 3. PowerBi
-  1 Crear las soluciones Bi basados en el análisis de datos partiendo de nuestro modelo estrella, con la finalidad de dar soluciones a los requerimientos del problemas.
+*  Crear las soluciones Bi basados en el análisis de datos partiendo de nuestro modelo estrella, con la finalidad de dar soluciones a los requerimientos del problemas.
  
